@@ -3,7 +3,8 @@ AI-driven HR Analytics Dashboard and Decision Support System
 # HR Analytics Dashboard for Decision Support
 
 ## Dashboard Preview
-![Dashboard](dashboard/dashboard_screenshot.png)
+<img width="1740" height="800" alt="Screenshot 2026-04-08 192356" src="https://github.com/user-attachments/assets/327eebd9-9eb3-420b-973b-f46733879e59" />
+
 
 ## Project Overview
 This project demonstrates how data analytics and AI-based logic can be used to solve real-world HR problems. It combines data analysis, dashboard visualization, and a decision support system.
@@ -29,7 +30,7 @@ Data → Analysis → Dashboard → Decision → Action
 
 ## Dashboard Description
 The dashboard provides a clear view of employee insights:
-<img width="1740" height="800" alt="Screenshot 2026-04-08 192356" src="https://github.com/user-attachments/assets/0e95f01e-8594-4e99-8519-3ea4ecadb52b" />
+
 
 
 ### KPIs
