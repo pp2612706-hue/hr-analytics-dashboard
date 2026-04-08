@@ -1,0 +1,101 @@
+employee_id,department,gender,age,experience_years,monthly_salary,satisfaction_score,training_hours,attendance_percent,performance_rating,overtime_hours,attrition,recruitment_source,engagement_level,promotion_status
+E001,Finance,Female,48,17,31655,7,23,94,5,18,No,LinkedIn,Medium,Not Promoted
+E002,Operations,Male,30,2,95031,6,53,93,2,18,No,LinkedIn,High,Promoted
+E003,IT,Male,26,1,101429,4,40,70,1,20,Yes,Job Portal,Low,Promoted
+E004,Operations,Female,22,16,116083,6,16,75,3,4,Yes,Job Portal,Low,Promoted
+E005,Operations,Female,40,12,112922,9,45,90,3,17,No,LinkedIn,High,Not Promoted
+E006,Sales,Female,31,5,80766,4,23,75,1,9,No,Referral,Medium,Not Promoted
+E007,IT,Male,33,5,38403,4,16,95,5,21,No,Campus,High,Not Promoted
+E008,IT,Female,45,9,57097,5,13,81,1,20,Yes,Referral,High,Promoted
+E009,IT,Male,36,9,103657,4,11,82,2,5,No,Referral,High,Promoted
+E010,Operations,Male,48,3,35966,3,32,82,1,0,Yes,Referral,Low,Not Promoted
+E011,Finance,Female,43,19,118848,7,18,98,3,4,No,LinkedIn,High,Promoted
+E012,IT,Female,45,16,77921,7,35,84,1,8,Yes,Job Portal,Low,Promoted
+E013,Operations,Male,30,16,74726,6,56,90,5,11,Yes,Referral,Low,Promoted
+E014,Sales,Male,41,3,75300,9,23,85,4,13,No,LinkedIn,Low,Promoted
+E015,Finance,Female,38,1,47677,4,51,91,1,1,No,Referral,Medium,Not Promoted
+E016,Sales,Female,38,11,80609,3,20,90,5,16,No,Referral,Low,Promoted
+E017,Finance,Female,47,17,81661,6,57,80,5,13,No,LinkedIn,Low,Promoted
+E018,Operations,Male,41,8,56024,5,9,97,3,12,No,Job Portal,Medium,Promoted
+E019,HR,Male,33,4,95313,6,39,74,5,8,Yes,Job Portal,Low,Promoted
+E020,Finance,Male,28,6,78006,6,16,73,5,24,No,Campus,High,Not Promoted
+E021,Sales,Male,23,8,40338,4,29,72,5,14,No,LinkedIn,High,Not Promoted
+E022,Operations,Male,24,3,93027,5,56,88,5,24,No,Campus,Low,Promoted
+E023,Finance,Male,38,16,117772,6,25,89,2,21,No,Campus,Medium,Promoted
+E024,HR,Female,26,3,105135,3,40,94,2,14,No,Campus,High,Promoted
+E025,HR,Male,38,18,44508,3,57,87,3,23,No,Job Portal,Medium,Promoted
+E026,IT,Male,45,14,28051,7,27,84,1,10,No,LinkedIn,Medium,Promoted
+E027,IT,Male,38,18,73747,5,20,78,5,15,No,Campus,High,Promoted
+E028,Sales,Female,48,2,112142,5,43,86,1,16,Yes,LinkedIn,Medium,Not Promoted
+E029,Finance,Male,38,3,112235,7,49,83,1,3,No,LinkedIn,High,Promoted
+E030,Finance,Male,23,16,79021,6,57,84,3,0,No,Job Portal,Medium,Not Promoted
+E031,IT,Female,23,9,91412,5,46,70,5,7,Yes,Campus,High,Not Promoted
+E032,Finance,Male,49,4,83335,3,43,90,5,16,No,Campus,Low,Promoted
+E033,Finance,Male,43,1,81179,3,18,91,4,2,No,LinkedIn,High,Not Promoted
+E034,HR,Male,44,4,57093,4,35,91,1,19,No,Referral,High,Not Promoted
+E035,IT,Male,26,1,94678,5,9,72,1,14,No,Job Portal,High,Not Promoted
+E036,Operations,Male,22,14,105738,6,39,85,2,14,Yes,Job Portal,High,Not Promoted
+E037,IT,Female,22,16,64734,7,27,92,4,23,No,Job Portal,Medium,Not Promoted
+E038,Operations,Female,40,8,97615,7,33,94,2,21,No,Job Portal,Low,Not Promoted
+E039,HR,Female,23,7,98523,6,47,80,2,13,No,Campus,High,Promoted
+E040,Sales,Male,42,3,119476,9,15,81,2,22,No,Campus,Medium,Not Promoted
+E041,Finance,Male,33,17,42019,8,22,79,3,13,No,Referral,Low,Not Promoted
+E042,HR,Male,47,1,108613,4,51,85,3,23,No,Job Portal,Low,Not Promoted
+E043,Finance,Female,27,16,116794,7,16,77,2,1,No,Job Portal,Low,Promoted
+E044,Sales,Male,44,12,111672,5,13,75,4,12,No,LinkedIn,Low,Not Promoted
+E045,Sales,Male,25,19,98847,4,14,81,1,13,Yes,Campus,High,Promoted
+E046,HR,Female,44,14,107750,5,48,93,4,23,No,Job Portal,High,Not Promoted
+E047,Sales,Male,32,6,104634,9,21,97,5,18,Yes,Referral,Medium,Promoted
+E048,Operations,Female,45,6,53251,3,42,90,3,6,Yes,Referral,Medium,Promoted
+E049,Sales,Female,48,13,50945,4,11,77,1,2,Yes,Campus,Medium,Not Promoted
+E050,Finance,Female,38,19,115852,7,50,95,1,14,Yes,Referral,Low,Not Promoted
+E051,Finance,Male,27,8,57217,4,17,97,5,22,No,Referral,Low,Promoted
+E052,Finance,Male,45,2,33308,4,44,73,5,13,No,Campus,High,Not Promoted
+E053,Finance,Male,26,1,30949,4,46,95,2,10,No,Job Portal,Low,Promoted
+E054,Operations,Male,41,15,76990,8,13,77,3,14,Yes,Job Portal,Low,Promoted
+E055,IT,Male,23,1,26150,4,54,95,3,12,No,Referral,Low,Promoted
+E056,HR,Male,27,5,114480,5,31,97,4,17,No,Referral,Medium,Promoted
+E057,Finance,Male,43,16,99740,3,6,87,2,5,No,Job Portal,Medium,Promoted
+E058,Sales,Female,32,19,91617,9,9,97,2,2,No,Campus,High,Not Promoted
+E059,Finance,Male,37,4,119841,6,33,97,2,18,No,Referral,Low,Promoted
+E060,Sales,Female,37,3,41896,4,41,74,2,14,Yes,LinkedIn,Low,Promoted
+E061,Sales,Male,22,17,71175,7,42,78,3,24,No,Campus,High,Not Promoted
+E062,Finance,Male,30,17,32805,4,23,73,3,22,No,Referral,Low,Promoted
+E063,Operations,Male,49,12,30237,7,12,96,2,4,No,Referral,Low,Not Promoted
+E064,Sales,Female,48,14,45056,5,52,91,4,9,Yes,LinkedIn,Medium,Not Promoted
+E065,Sales,Female,27,6,70543,7,49,86,1,6,No,LinkedIn,High,Not Promoted
+E066,Finance,Female,37,3,81556,6,5,78,1,24,No,Job Portal,High,Promoted
+E067,Sales,Female,24,9,28343,3,26,70,4,16,No,Campus,High,Promoted
+E068,Sales,Male,41,5,38500,7,56,90,2,6,No,Campus,High,Promoted
+E069,Finance,Female,49,17,78222,7,21,89,3,21,No,Job Portal,Medium,Not Promoted
+E070,Finance,Male,48,14,54375,3,11,82,1,11,Yes,Campus,Medium,Promoted
+E071,HR,Male,25,3,34662,6,29,97,5,24,Yes,Campus,Low,Not Promoted
+E072,Operations,Female,40,1,41964,4,49,85,5,16,No,Campus,Low,Promoted
+E073,Operations,Female,47,1,84638,7,8,98,4,12,No,Campus,Low,Not Promoted
+E074,Sales,Female,24,3,98666,3,40,82,2,19,No,Campus,Low,Promoted
+E075,Operations,Female,40,18,110067,5,10,83,1,24,No,LinkedIn,Medium,Promoted
+E076,Sales,Female,41,10,92215,3,35,72,2,3,No,Campus,High,Promoted
+E077,HR,Female,28,3,94042,5,23,98,1,9,No,LinkedIn,Medium,Not Promoted
+E078,Finance,Female,41,8,38284,6,48,75,4,2,No,Campus,Low,Not Promoted
+E079,Finance,Female,30,14,97789,4,58,87,4,8,No,Job Portal,Medium,Promoted
+E080,Finance,Male,22,18,109664,3,43,88,5,12,No,Referral,High,Promoted
+E081,Operations,Female,29,15,118468,9,31,74,2,17,No,LinkedIn,High,Not Promoted
+E082,HR,Female,28,2,86389,9,14,84,5,14,No,Campus,Medium,Not Promoted
+E083,Operations,Male,39,10,34435,8,30,94,2,3,No,Job Portal,Medium,Not Promoted
+E084,Operations,Female,29,2,79340,7,23,71,5,14,No,Referral,Medium,Promoted
+E085,HR,Male,22,17,69078,6,43,79,3,21,No,LinkedIn,Low,Not Promoted
+E086,HR,Male,32,8,103832,3,7,93,3,1,No,Referral,Medium,Promoted
+E087,HR,Female,49,1,76293,9,49,99,3,14,Yes,Job Portal,Medium,Not Promoted
+E088,HR,Male,46,9,103781,7,17,87,3,7,Yes,LinkedIn,Medium,Promoted
+E089,Finance,Male,46,11,85403,9,54,96,1,7,No,Referral,High,Not Promoted
+E090,IT,Male,39,16,54124,3,32,82,3,16,No,Campus,High,Not Promoted
+E091,IT,Male,44,7,68919,5,24,74,4,11,No,LinkedIn,Low,Not Promoted
+E092,HR,Female,31,10,60247,3,32,92,4,18,No,Referral,Low,Not Promoted
+E093,IT,Male,24,3,119758,8,12,93,1,9,No,Job Portal,High,Not Promoted
+E094,IT,Female,28,18,116747,3,45,70,3,8,Yes,Job Portal,High,Promoted
+E095,HR,Male,49,13,87752,3,43,91,3,4,No,LinkedIn,High,Not Promoted
+E096,IT,Male,37,7,81573,8,5,70,3,5,No,Referral,Medium,Not Promoted
+E097,Operations,Male,47,4,84101,6,7,87,5,19,No,LinkedIn,Medium,Not Promoted
+E098,Sales,Male,37,13,51646,3,17,84,2,1,No,LinkedIn,High,Promoted
+E099,Sales,Female,46,1,48049,8,32,86,5,23,No,Referral,Medium,Not Promoted
+E100,HR,Female,41,8,104605,7,53,80,2,12,No,Referral,Medium,Promoted
