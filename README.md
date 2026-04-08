@@ -1,7 +1,13 @@
 # hr-analytics-dashboard
 AI-driven HR Analytics Dashboard and Decision Support System
 # HR Analytics Dashboard for Decision Support
+## Problem Statement
 
+Organizations often face challenges in managing employee performance and reducing attrition due to the lack of real-time insights and structured decision-making systems. HR teams rely on scattered data sources such as attendance records, satisfaction scores, and performance metrics, which makes it difficult to identify at-risk employees and take timely action.
+
+The absence of an integrated system leads to delayed decisions, increased employee turnover, and reduced organizational efficiency.
+
+This project aims to solve this problem by developing an AI-driven HR Analytics Dashboard and Decision Support System that provides clear insights, identifies high-risk employees, and recommends actionable strategies to improve employee retention and performance.
 ## Dashboard Preview
 <img width="1740" height="800" alt="Screenshot 2026-04-08 192356" src="https://github.com/user-attachments/assets/327eebd9-9eb3-420b-973b-f46733879e59" />
 
