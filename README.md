@@ -8,6 +8,7 @@ The absence of an integrated system leads to delayed decisions, increased employ
 This project aims to solve this problem by developing an AI-driven HR Analytics Dashboard and Decision Support System that provides clear insights, identifies high-risk employees, and recommends actionable strategies to improve employee retention and performance.
 ## Dashboard Preview
 <img width="1740" height="800" alt="Screenshot 2026-04-08 192356" src="https://github.com/user-attachments/assets/327eebd9-9eb3-420b-973b-f46733879e59" />
+<img width="1431" height="796" alt="image" src="https://github.com/user-attachments/assets/f32f4f6e-5c05-44e2-9e86-769f06e4b709" />
 
 
 ## Project Overview
