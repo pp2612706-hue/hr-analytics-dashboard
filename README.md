@@ -1,5 +1,3 @@
-# hr-analytics-dashboard
-AI-driven HR Analytics Dashboard and Decision Support System
 # HR Analytics Dashboard for Decision Support
 ## Problem Statement
 
@@ -79,19 +77,11 @@ A rule-based DSS is implemented to support HR decisions.
 - Matplotlib
 - Power BI
 
-## Project Structure
-hr-analytics-dashboard/
- ├── data
- ├── dashboard
- ├── notebooks
- ├── src
- ├── README.md
- └── requirements.txt
-
 ## How to Run
 1. Open notebook in Google Colab
-2. Run all cells
-3. View charts and insights
+2. https://colab.research.google.com/drive/10EH92qBycuyF_FQXv_62-LwVBJBU47Ms
+3. Run all cells
+4. View charts and insights
 
 ## Business Insights
 - High attrition departments need attention
